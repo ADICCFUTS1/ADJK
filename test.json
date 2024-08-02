@@ -1,7 +1,7 @@
 [
- {
-    "dt": "1722085200",
-    "Partido": "República Dominicana - Olímpico - España - Olímpico",
+{
+    "dt": "1722610800",
+    "Partido": "Japón - Olímpico - España - Olímpico",
     "Competicion": "Extras",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,24 +16,8 @@
     }
   },
   {
-    "dt": "1722085200",
-    "Partido": "Argentina - Olímpico - Irak - Olímpico",
-    "Competicion": "Extras",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1722106800",
-    "Partido": "Francia - Olímpico - Guinea - Olímpico",
+    "dt": "1722625200",
+    "Partido": "Francia - Olímpico - Argentina - Olímpico",
     "Competicion": "Extras",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
