@@ -1,8 +1,24 @@
 [
+{
+    "dt": "1723741200",
+    "Partido": "Athletic de Bilbao - Getafe",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
   {
-    "dt": "1723662000",
-    "Partido": "Real Madrid - Atalanta",
-    "Competicion": "Extras",
+    "dt": "1723750200",
+    "Partido": "Real Betis - Girona",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
