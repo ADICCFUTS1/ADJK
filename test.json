@@ -1,7 +1,7 @@
 [
 {
-    "dt": "1723741200",
-    "Partido": "Athletic de Bilbao - Getafe",
+    "dt": "1723827600",
+    "Partido": "Celta de Vigo - Alavés",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,8 +16,24 @@
     }
   },
   {
-    "dt": "1723750200",
-    "Partido": "Real Betis - Girona",
+    "dt": "1723834800",
+    "Partido": "Manchester United - Fulham",
+    "Competicion": "Premier League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1723836600",
+    "Partido": "Las Palmas - Sevilla",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
