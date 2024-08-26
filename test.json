@@ -1,8 +1,8 @@
 [
-{
-    "dt": "1724590800",
-    "Partido": "Wolverhampton - Chelsea",
-    "Competicion": "Premier League",
+  {
+    "dt": "1724697900",
+    "Partido": "Verona - Juventus",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,56 +16,8 @@
     }
   },
   {
-    "dt": "1724598000",
-    "Partido": "Real Madrid - Valladolid",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1724599800",
-    "Partido": "Liverpool - Brentford",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1724606100",
-    "Partido": "Alavés - Real Betis",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1724614200",
-    "Partido": "Atlético de Madrid - Girona",
+    "dt": "1724700600",
+    "Partido": "Villarreal - Celta de Vigo",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
