@@ -1,8 +1,8 @@
 [
- {
-    "dt": "1726401600",
-    "Partido": "Celta de Vigo - Valladolid",
-    "Competicion": "LaLiga",
+   {
+    "dt": "1726591500",
+    "Partido": "Juventus - PSV Eindhoven",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1726405200",
-    "Partido": "Tottenham - Arsenal",
-    "Competicion": "Premier League",
+    "dt": "1726599600",
+    "Partido": "Bayern de Múnich - Dinamo Zagreb",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1726409715",
-    "Partido": "Girona - Barcelona",
-    "Competicion": "LaLiga",
+    "dt": "1726599600",
+    "Partido": "AC Milan - Liverpool",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1726421400",
-    "Partido": "Las Palmas - Athletic de Bilbao",
-    "Competicion": "LaLiga",
+    "dt": "1726599600",
+    "Partido": "Real Madrid - VfB Stuttgart",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,25 +64,9 @@
     }
   },
   {
-    "dt": "1726425900",
-    "Partido": "Monza - Inter de Milán",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1726426800",
-    "Partido": "Atlético de Madrid - Valencia",
-    "Competicion": "LaLiga",
+    "dt": "1726619400",
+    "Partido": "Colo-Colo - River Plate",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
