@@ -1,7 +1,7 @@
 [
  {
-    "dt": "1727006400",
-    "Partido": "Getafe - Leganés",
+    "dt": "1727197200",
+    "Partido": "Sevilla - Valladolid",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,8 +16,8 @@
     }
   },
   {
-    "dt": "1727014500",
-    "Partido": "Athletic de Bilbao - Celta de Vigo",
+    "dt": "1727197200",
+    "Partido": "Valencia - Osasuna",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -32,8 +32,8 @@
     }
   },
   {
-    "dt": "1727019000",
-    "Partido": "Manchester City - Arsenal",
+    "dt": "1727203500",
+    "Partido": "Chelsea - Barrow",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1727022600",
-    "Partido": "Villarreal - Barcelona",
-    "Competicion": "LaLiga",
+    "dt": "1727203500",
+    "Partido": "Manchester City - Watford",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,24 +64,8 @@
     }
   },
   {
-    "dt": "1727030700",
-    "Partido": "Inter de Milán - AC Milan",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1727031600",
-    "Partido": "Rayo Vallecano - Atlético de Madrid",
+    "dt": "1727204400",
+    "Partido": "Real Madrid - Alavés",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
