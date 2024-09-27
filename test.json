@@ -1,8 +1,8 @@
 [
-    {
-    "dt": "1727370000",
-    "Partido": "Las Palmas - Real Betis",
-    "Competicion": "LaLiga",
+ {
+    "dt": "1727462700",
+    "Partido": "AC Milan - Lecce",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,40 +16,8 @@
     }
   },
   {
-    "dt": "1727370000",
-    "Partido": "Espanyol - Villarreal",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1727377200",
-    "Partido": "Tottenham - FK Qarabag",
-    "Competicion": "UEFA Europa League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1727377200",
-    "Partido": "Celta de Vigo - Atlético de Madrid",
+    "dt": "1727463600",
+    "Partido": "Valladolid - Mallorca",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
