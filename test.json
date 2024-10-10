@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1728210600",
-    "Partido": "Juventus - Cagliari",
-    "Competicion": "Serie A",
+    "dt": "1728585900",
+    "Partido": "Israel - Francia",
+    "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1728216000",
-    "Partido": "Girona - Athletic de Bilbao",
-    "Competicion": "LaLiga",
+    "dt": "1728585900",
+    "Partido": "Italia - Bélgica",
+    "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1728219600",
-    "Partido": "Aston Villa - Manchester United",
-    "Competicion": "Premier League",
+    "dt": "1728590400",
+    "Partido": "Bolivia - Colombia",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1728219600",
-    "Partido": "Chelsea - Nottingham Forest",
-    "Competicion": "Premier League",
+    "dt": "1728594000",
+    "Partido": "Ecuador - Paraguay",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,9 +64,9 @@
     }
   },
   {
-    "dt": "1728224100",
-    "Partido": "Alavés - Barcelona",
-    "Competicion": "LaLiga",
+    "dt": "1728594000",
+    "Partido": "Venezuela - Argentina",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -80,57 +80,9 @@
     }
   },
   {
-    "dt": "1728228600",
-    "Partido": "Brighton - Tottenham",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1728232200",
-    "Partido": "Sevilla - Real Betis",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1728240300",
-    "Partido": "Fiorentina - AC Milan",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1728241200",
-    "Partido": "Real Sociedad - Atlético de Madrid",
-    "Competicion": "LaLiga",
+    "dt": "1728604800",
+    "Partido": "Chile - Brasil",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
