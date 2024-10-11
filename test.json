@@ -1,7 +1,6 @@
-[
-  {
-    "dt": "1728585900",
-    "Partido": "Israel - Francia",
+[{
+    "dt": "1728672300",
+    "Partido": "Bosnia y Herzegovina - Alemania",
     "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,8 +15,8 @@
     }
   },
   {
-    "dt": "1728585900",
-    "Partido": "Italia - Bélgica",
+    "dt": "1728672300",
+    "Partido": "Hungría - Países Bajos",
     "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -32,56 +31,8 @@
     }
   },
   {
-    "dt": "1728590400",
-    "Partido": "Bolivia - Colombia",
-    "Competicion": "Conmebol Libertadores",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1728594000",
-    "Partido": "Ecuador - Paraguay",
-    "Competicion": "Conmebol Libertadores",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1728594000",
-    "Partido": "Venezuela - Argentina",
-    "Competicion": "Conmebol Libertadores",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1728604800",
-    "Partido": "Chile - Brasil",
+    "dt": "1728696600",
+    "Partido": "Perú - Uruguay",
     "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
