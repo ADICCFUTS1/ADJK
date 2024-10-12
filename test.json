@@ -1,6 +1,7 @@
-[{
-    "dt": "1728672300",
-    "Partido": "Bosnia y Herzegovina - Alemania",
+[
+      {
+    "dt": "1728748800",
+    "Partido": "Croacia - Escocia",
     "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -15,8 +16,8 @@
     }
   },
   {
-    "dt": "1728672300",
-    "Partido": "Hungría - Países Bajos",
+    "dt": "1728758700",
+    "Partido": "Polonia - Portugal",
     "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -31,9 +32,9 @@
     }
   },
   {
-    "dt": "1728696600",
-    "Partido": "Perú - Uruguay",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1728758700",
+    "Partido": "España - Dinamarca",
+    "Competicion": "Nationes League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
