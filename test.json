@@ -1,7 +1,7 @@
 [
-   {
-    "dt": "1729615500",
-    "Partido": "AC Milan - Club Brujas",
+ {
+    "dt": "1729701900",
+    "Partido": "Brest - Bayer Leverkusen",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,8 +16,8 @@
     }
   },
   {
-    "dt": "1729623600",
-    "Partido": "Arsenal - Shakhtar Donetsk",
+    "dt": "1729701900",
+    "Partido": "Atalanta - Celtic",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -32,8 +32,8 @@
     }
   },
   {
-    "dt": "1729623600",
-    "Partido": "Paris St. Germain - PSV Eindhoven",
+    "dt": "1729710000",
+    "Partido": "Benfica - Feyenoord",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -48,8 +48,8 @@
     }
   },
   {
-    "dt": "1729623600",
-    "Partido": "Girona - Slovan Bratislava",
+    "dt": "1729710000",
+    "Partido": "Manchester City - Sparta de Praga",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -64,8 +64,8 @@
     }
   },
   {
-    "dt": "1729623600",
-    "Partido": "Juventus - VfB Stuttgart",
+    "dt": "1729710000",
+    "Partido": "Atlético de Madrid - Lille",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -80,8 +80,40 @@
     }
   },
   {
-    "dt": "1729623600",
-    "Partido": "Real Madrid - Borussia Dortmund",
+    "dt": "1729710000",
+    "Partido": "Young Boys - Inter de Milán",
+    "Competicion": "UEFA Champions League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1729710000",
+    "Partido": "RB Leipzig - Liverpool",
+    "Competicion": "UEFA Champions League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1729710000",
+    "Partido": "Barcelona - Bayern de Múnich",
     "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
