@@ -1,8 +1,8 @@
 [
- {
-    "dt": "1729788300",
-    "Partido": "Maccabi Tel Aviv - Real Sociedad",
-    "Competicion": "UEFA Europa League",
+  {
+    "dt": "1729944000",
+    "Partido": "Valladolid - Villarreal",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1729788300",
-    "Partido": "Panathinaikos - Chelsea",
-    "Competicion": "UEFA Champions League",
+    "dt": "1729951200",
+    "Partido": "Manchester City - Southampton",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1729796400",
-    "Partido": "Tottenham - AZ",
-    "Competicion": "UEFA Europa League",
+    "dt": "1729952100",
+    "Partido": "Rayo Vallecano - Alavés",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,25 @@
     }
   },
   {
-    "dt": "1729796400",
-    "Partido": "Real Betis - FC Copenhague",
-    "Competicion": "UEFA Champions League",
+    "dt": "1729960200",
+    "Partido": "Las Palmas - Girona",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1729969200",
+    "Partido": "Real Madrid - Barcelona",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
