@@ -1,8 +1,8 @@
 [
-  {
-    "dt": "1730923200",
-    "Partido": "Estrella Roja de Belgrado - Barcelona",
-    "Competicion": "UEFA Champions League",
+   {
+    "dt": "1731001500",
+    "Partido": "Ludogorets Razgrad - Athletic de Bilbao",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1730923200",
-    "Partido": "Bayern de Múnich - Benfica",
-    "Competicion": "UEFA Champions League",
+    "dt": "1731001500",
+    "Partido": "Galatasaray SK - Tottenham",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1730923200",
-    "Partido": "Paris St. Germain - Atlético de Madrid",
-    "Competicion": "UEFA Champions League",
+    "dt": "1731009600",
+    "Partido": "Manchester United - PAOK Salónica",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,25 +48,9 @@
     }
   },
   {
-    "dt": "1730923200",
-    "Partido": "Inter de Milán - Arsenal",
-    "Competicion": "UEFA Champions League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1730923200",
-    "Partido": "VfB Stuttgart - Atalanta",
-    "Competicion": "UEFA Champions League",
+    "dt": "1731009600",
+    "Partido": "Chelsea - Noah",
+    "Competicion": "UEFA Europa League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
