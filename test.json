@@ -1,8 +1,8 @@
 [
- {
-    "dt": "1731243600",
-    "Partido": "Real Betis - Celta de Vigo",
-    "Competicion": "LaLiga",
+  {
+    "dt": "1731613500",
+    "Partido": "Bélgica - Italia",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1731247200",
-    "Partido": "Manchester United - Leicester",
-    "Competicion": "Premier League",
+    "dt": "1731613500",
+    "Partido": "Francia - Israel",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1731247200",
-    "Partido": "Tottenham - Ipswich",
-    "Competicion": "Premier League",
+    "dt": "1731618000",
+    "Partido": "Venezuela - Brasil",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1731251700",
-    "Partido": "Mallorca - Atlético de Madrid",
-    "Competicion": "LaLiga",
+    "dt": "1731627000",
+    "Partido": "Paraguay - Argentina",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,73 +64,9 @@
     }
   },
   {
-    "dt": "1731256200",
-    "Partido": "Chelsea - Arsenal",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1731259800",
-    "Partido": "Valladolid - Athletic de Bilbao",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1731259800",
-    "Partido": "Getafe - Girona",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1731267900",
-    "Partido": "Inter de Milán - Nápoles",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1731268800",
-    "Partido": "Real Sociedad - Barcelona",
-    "Competicion": "LaLiga",
+    "dt": "1731628800",
+    "Partido": "Ecuador - Bolivia",
+    "Competicion": "Conmebol Libertadores",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
