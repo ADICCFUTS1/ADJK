@@ -1,8 +1,8 @@
 [
- {
-    "dt": "1732045500",
-    "Partido": "Bosnia y Herzegovina - Países Bajos",
-    "Competicion": "Nationes League",
+  {
+    "dt": "1732365000",
+    "Partido": "Leicester - Chelsea",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1732045500",
-    "Partido": "Hungría - Alemania",
-    "Competicion": "Nationes League",
+    "dt": "1732366800",
+    "Partido": "Valencia - Real Betis",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1732057200",
-    "Partido": "Colombia - Ecuador",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1732370400",
+    "Partido": "Verona - Inter de Milán",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1732060800",
-    "Partido": "Chile - Venezuela",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1732374000",
+    "Partido": "Arsenal - Nottingham Forest",
+    "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,9 +64,9 @@
     }
   },
   {
-    "dt": "1732060800",
-    "Partido": "Argentina - Perú",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1732374900",
+    "Partido": "Atlético de Madrid - Alavés",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -80,9 +80,89 @@
     }
   },
   {
-    "dt": "1732063500",
-    "Partido": "Brasil - Uruguay",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1732381200",
+    "Partido": "AC Milan - Juventus",
+    "Competicion": "Serie A",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1732383000",
+    "Partido": "Manchester City - Tottenham",
+    "Competicion": "Premier League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1732383000",
+    "Partido": "Las Palmas - Mallorca",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1732383000",
+    "Partido": "Girona - Espanyol",
+    "Competicion": "LaLiga",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1732391100",
+    "Partido": "Parma - Atalanta",
+    "Competicion": "Serie A",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1732392000",
+    "Partido": "Celta de Vigo - Barcelona",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
