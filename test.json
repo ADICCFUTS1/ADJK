@@ -1,8 +1,8 @@
 [
 {
-    "dt": "1732729500",
-    "Partido": "SK Sturm Graz - Girona",
-    "Competicion": "UEFA Champions League",
+    "dt": "1732815900",
+    "Partido": "Heidenheim - Chelsea",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1732737600",
-    "Partido": "Dinamo Zagreb - Borussia Dortmund",
-    "Competicion": "UEFA Champions League",
+    "dt": "1732815900",
+    "Partido": "Athletic de Bilbao - Elfsborg",
+    "Competicion": "UEFA Europa League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,41 +32,9 @@
     }
   },
   {
-    "dt": "1732737600",
-    "Partido": "Mónaco - Benfica",
-    "Competicion": "UEFA Champions League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1732737600",
-    "Partido": "Aston Villa - Juventus",
-    "Competicion": "UEFA Champions League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1732737600",
-    "Partido": "Liverpool - Real Madrid",
-    "Competicion": "UEFA Champions League",
+    "dt": "1732824000",
+    "Partido": "Tottenham - Roma",
+    "Competicion": "UEFA Europa League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
