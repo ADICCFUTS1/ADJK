@@ -1,8 +1,8 @@
 [
-  {
-    "dt": "1734541200",
-    "Partido": "Real Madrid - Pachuca",
-    "Competicion": "Extras",
+   {
+    "dt": "1734638400",
+    "Partido": "Inter de Milán - Udinese",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,8 +16,8 @@
     }
   },
   {
-    "dt": "1734550200",
-    "Partido": "Arsenal - Crystal Palace",
+    "dt": "1734638400",
+    "Partido": "Tottenham - Manchester United",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1734552000",
-    "Partido": "Southampton - Liverpool",
-    "Competicion": "Premier League",
+    "dt": "1734638400",
+    "Partido": "Chelsea - Shamrock Rovers",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,25 +48,9 @@
     }
   },
   {
-    "dt": "1734553800",
-    "Partido": "Villarreal - Rayo Vallecano",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1734553800",
-    "Partido": "Espanyol - Valencia",
-    "Competicion": "LaLiga",
+    "dt": "1734638400",
+    "Partido": "Real Betis - HJK Helsinki",
+    "Competicion": "Eurocopa",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
