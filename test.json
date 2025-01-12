@@ -1,7 +1,7 @@
 [
- {
-    "dt": "1736600400",
-    "Partido": "Alavés - Girona",
+  {
+    "dt": "1736686800",
+    "Partido": "Las Palmas - Getafe",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,24 +16,8 @@
     }
   },
   {
-    "dt": "1736608500",
-    "Partido": "Valladolid - Real Betis",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1736614800",
-    "Partido": "Torino - Juventus",
+    "dt": "1736690400",
+    "Partido": "Venecia - Inter de Milán",
     "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -48,8 +32,8 @@
     }
   },
   {
-    "dt": "1736616600",
-    "Partido": "Espanyol - Leganés",
+    "dt": "1736694900",
+    "Partido": "Atlético de Madrid - Osasuna",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -64,25 +48,9 @@
     }
   },
   {
-    "dt": "1736624700",
-    "Partido": "AC Milan - Cagliari",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1736625600",
-    "Partido": "Sevilla - Valencia",
-    "Competicion": "LaLiga",
+    "dt": "1736708400",
+    "Partido": "Real Madrid - Barcelona",
+    "Competicion": "Extras",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
