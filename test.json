@@ -1,8 +1,8 @@
 [
-  {
-    "dt": "1737291600",
-    "Partido": "Celta de Vigo - Athletic de Bilbao",
-    "Competicion": "LaLiga",
+ {
+    "dt": "1737481500",
+    "Partido": "Atalanta - SK Sturm Graz",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,9 +16,9 @@
     }
   },
   {
-    "dt": "1737295200",
-    "Partido": "Everton - Tottenham",
-    "Competicion": "Premier League",
+    "dt": "1737489600",
+    "Partido": "Bolonia - Borussia Dortmund",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -32,9 +32,9 @@
     }
   },
   {
-    "dt": "1737295200",
-    "Partido": "Manchester United - Brighton",
-    "Competicion": "Premier League",
+    "dt": "1737489600",
+    "Partido": "Club Brujas - Juventus",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -48,9 +48,9 @@
     }
   },
   {
-    "dt": "1737299700",
-    "Partido": "Real Madrid - Las Palmas",
-    "Competicion": "LaLiga",
+    "dt": "1737489600",
+    "Partido": "Benfica - Barcelona",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -64,9 +64,9 @@
     }
   },
   {
-    "dt": "1737304200",
-    "Partido": "Ipswich - Manchester City",
-    "Competicion": "Premier League",
+    "dt": "1737489600",
+    "Partido": "Atlético de Madrid - Bayer Leverkusen",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -80,41 +80,9 @@
     }
   },
   {
-    "dt": "1737307800",
-    "Partido": "Osasuna - Rayo Vallecano",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1737315900",
-    "Partido": "Inter de Milán - Empoli",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1737316800",
-    "Partido": "Valencia - Real Sociedad",
-    "Competicion": "LaLiga",
+    "dt": "1737489600",
+    "Partido": "Liverpool - Lille",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
