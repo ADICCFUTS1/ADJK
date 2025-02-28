@@ -32,6 +32,7 @@ CHECKPOINT_MODELS=(
 )
 
 UNET_MODELS=(
+    "https://civitai.com/api/download/models/1360886?type=Model&format=SafeTensor&size=full&fp=bf16&token=39defb85e67620277d743f0882f88c24"
 )
 
 LORA_MODELS=(
@@ -39,6 +40,7 @@ LORA_MODELS=(
 )
 
 VAE_MODELS=(
+    "https://civitai.com/api/download/models/1356987?type=Model&format=SafeTensor&size=full&fp=fp32&&token=39defb85e67620277d743f0882f88c24"
 )
 
 ESRGAN_MODELS=(
@@ -48,6 +50,8 @@ CONTROLNET_MODELS=(
 )
 
 CLIP_MODELS=(
+    "https://huggingface.co/Comfy-Org/HunyuanVideo_repackaged/resolve/main/split_files/text_encoders/clip_l.safetensors?download=true"
+    "https://huggingface.co/Comfy-Org/HunyuanVideo_repackaged/resolve/main/split_files/text_encoders/llava_llama3_fp8_scaled.safetensors?download=true"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
