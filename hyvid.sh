@@ -22,6 +22,10 @@ NODES=(
     "https://github.com/kijai/ComfyUI-HunyuanVideoWrapper"
     "https://github.com/city96/ComfyUI-GGUF"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
 )
 
 WORKFLOWS=(
