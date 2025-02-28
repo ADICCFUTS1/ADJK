@@ -26,6 +26,7 @@ NODES=(
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
+    "https://github.com/chengzeyi/Comfy-WaveSpeed"
 )
 
 WORKFLOWS=(
