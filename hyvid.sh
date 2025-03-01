@@ -43,6 +43,7 @@ UNET_MODELS=(
 LORA_MODELS=(
     "https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hyvideo_FastVideo_LoRA-fp8.safetensors?download=true"
     "https://huggingface.co/Kijai/Leapfusion-image2vid-comfy/resolve/main/leapfusion_img2vid544p_comfy.safetensors?download=true"
+    "https://civitai.com/api/download/models/1193204?type=Model&format=SafeTensor&token=39defb85e67620277d743f0882f88c24"
 )
 
 VAE_MODELS=(
