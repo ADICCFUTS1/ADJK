@@ -42,6 +42,7 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     "https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hyvideo_FastVideo_LoRA-fp8.safetensors?download=true"
+    "https://huggingface.co/Kijai/Leapfusion-image2vid-comfy/resolve/main/leapfusion_img2vid544p_comfy.safetensors?download=true"
 )
 
 VAE_MODELS=(
