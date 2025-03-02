@@ -27,6 +27,7 @@ NODES=(
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
     "https://github.com/chengzeyi/Comfy-WaveSpeed"
+    "https://github.com/kijai/ComfyUI-KJNodes"
 )
 
 WORKFLOWS=(
