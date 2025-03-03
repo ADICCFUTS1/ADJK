@@ -32,6 +32,7 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://tensor-models.7022ae40757f8d53295a57619de9b364.r2.cloudflarestorage.com/files/743409142143844305/f9e94f6f-7287-4374-af01-07caee6f28b7.safetensors?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0bef8a003dc93fc4d7030c9da79271ff%2F20250303%2F%2Fs3%2Faws4_request&X-Amz-Date=20250303T201458Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=08a960d176857004774ce1caeeb6720a10ed8ce6d1e77331adfa57e1ca526d0f"
 )
 
 VAE_MODELS=(
