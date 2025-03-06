@@ -26,6 +26,7 @@ WORKFLOWS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/1075450?type=Model&format=SafeTensor&size=full&fp=fp32&token=39defb85e67620277d743f0882f88c24"
+    "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors?download=true"
 )
 
 UNET_MODELS=(
