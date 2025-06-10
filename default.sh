@@ -25,7 +25,8 @@ WORKFLOWS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/1075450?type=Model&format=SafeTensor&size=full&fp=fp32&token=39defb85e67620277d743f0882f88c24"
+    #"https://civitai.com/api/download/models/1075450?type=Model&format=SafeTensor&size=full&fp=fp32&token=39defb85e67620277d743f0882f88c24"
+    "https://civitai.com/api/download/models/501240?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=39defb85e67620277d743f0882f88c24"
 )
 
 UNET_MODELS=(
@@ -35,7 +36,8 @@ LORA_MODELS=(
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/resolve/main/sdxl_vae.safetensors?download=true"
+    #"https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/resolve/main/sdxl_vae.safetensors?download=true"
+    "https://huggingface.co/stabilityai/sd-vae-ft-mse/resolve/main/diffusion_pytorch_model.safetensors?download=true"
 )
 
 ESRGAN_MODELS=(
